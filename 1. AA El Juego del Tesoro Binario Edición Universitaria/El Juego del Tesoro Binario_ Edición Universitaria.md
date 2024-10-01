@@ -1,5 +1,6 @@
 
 # El Juego del Tesoro Binario: Edición Universitaria
+![6623f20f-dcb5-4ab3-a8d0-9486e2ca8707](https://github.com/user-attachments/assets/700bc8c9-26ef-4226-adcb-f1f1e4534586)
 
 Bienvenidos, futuros ingenieros, al desafío definitivo que pondrá a prueba sus conocimientos en electrónica, sistemas digitales y programación. Este juego consta de 5 misiones que deberán completar para descubrir el tesoro binario.
 
