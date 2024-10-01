@@ -1,5 +1,8 @@
 # Viaje en el Tiempo de la Historia de la Computación  
 
+![image](https://github.com/user-attachments/assets/50ad2abb-23b8-46ac-abab-069cf086831d)
+
+
 ## Bienvenidos a esta emocionante aventura a través de la historia de la computación. En esta actividad, exploraremos los hitos más importantes en el desarrollo de los computadores, desde sus inicios hasta la era moderna.  
 
 ### Instrucciones:  
