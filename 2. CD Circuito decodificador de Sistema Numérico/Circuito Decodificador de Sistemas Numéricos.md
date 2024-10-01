@@ -1,5 +1,6 @@
 
 # Circuito Decodificador de Sistemas Numéricos
+![d610319c-d067-48d4-99c1-978594bec1ea](https://github.com/user-attachments/assets/a2464b2c-815c-46cc-987f-50eeb3aab984)
 
 ## Actividad
 En esta actividad práctica, los estudiantes trabajarán en equipos para construir un circuito simple que decodifica un número binario de 4 bits y lo muestra en diferentes sistemas numéricos utilizando LEDs y un display de 7 segmentos.
