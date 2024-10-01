@@ -8,7 +8,7 @@
 ### Instrucciones:  
 
 1. **Formación de Equipos**  
-   - **Formen equipos de 4 y no de 5 estudiantes.**  
+   - **Formen equipos de 4 estudiantes.**  
    - **Cada equipo representará una era específica en la historia de la computación.**  
 
 2. **Estaciones Históricas**  
@@ -25,7 +25,7 @@
    - **Registren las innovaciones principales, los personajes clave y cómo cada era influyó en la siguiente.**  
 
 5. **Creación de Línea de Tiempo Interactiva**  
-   - **Al finalizar el recorrido, creen una línea de tiempo interactiva usando herramientas como TimelineJS o Sutori.**  
+   - **Al finalizar el recorrido, creen una línea de tiempo interactiva usando herramientas como TimelineJS, Canva, Sutori.**  
    - **Incluyan los eventos clave, innovaciones y personajes importantes de cada era.**  
    - **Añadan imágenes, videos cortos o enlaces a recursos adicionales en su línea de tiempo.**  
 
