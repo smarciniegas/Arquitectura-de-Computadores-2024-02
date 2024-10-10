@@ -1,6 +1,6 @@
 
 
-# Manual para Estudiante: Parpadeo de LEDs en Arduino
+# 1. Manual para Estudiante: Parpadeo de LEDs en Arduino
 
 ## 1. Introducción
 Este manual tiene como objetivo guiar a los estudiantes en la creación de un programa simple para Arduino que hace parpadear dos LEDs. Este ejercicio es fundamental para comprender los conceptos básicos de programación en Arduino y la manipulación de hardware, así como para desarrollar habilidades en la electrónica.
